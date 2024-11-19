@@ -1,0 +1,10 @@
+[
+    {
+        "Departamento":"RH",
+        "Media_Salarial":3000.0
+    },
+    {
+        "Departamento":"TI",
+        "Media_Salarial":7000.0
+    }
+]

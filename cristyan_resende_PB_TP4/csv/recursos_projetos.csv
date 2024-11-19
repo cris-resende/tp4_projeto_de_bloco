@@ -1,0 +1,9 @@
+Id,Projeto_id,Descricao,Tipo,Quantidade,Data_utilizacao,Custo_total
+1,1,Servidores,Material,3,2024-02-01,15000
+2,1,Consultoria,Humano,1,2024-03-01,20000
+3,2,Licenças de software,Financeiro,10,2024-04-01,30000
+4,2,Treinamento,Humano,5,2024-05-01,10000
+5,3,Equipamentos de teste,Material,2,2024-06-01,5000
+6,4,Publicidade,Financeiro,1,2024-07-01,25000
+7,4,Serviços terceirizados,Humano,3,2024-08-01,30000
+8,5,Análise de mercado,Humano,1,2024-09-01,15000

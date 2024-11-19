@@ -1,0 +1,6 @@
+Id,Nome_projeto,Descricao_projeto,Data_inicio,Data_conclusao,Funcionario_responsavel,Custo_projeto,Status
+1,Projeto Apollo,Desenvolvimento de sistema interno,2024-01-01,2024-06-30,1,50000,Concluído
+2,Projeto Beta,Atualização de software,2024-03-01,2024-09-30,2,70000,Concluído
+3,Projeto Gamma,Criação de aplicativo móvel,2024-04-01,,3,40000,Em Execução
+4,Projeto Delta,Implementação de novo CRM,2024-05-01,2024-10-30,4,90000,Concluído
+5,Projeto Omega,Planejamento estratégico,2024-06-01,,5,30000,Em Planejamento

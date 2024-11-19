@@ -1,0 +1,11 @@
+Id,Nome_dependente,Idade,Relacao,Funcionario_id
+1,Ana Silva,5,Filha,1
+2,Pedro Silva,3,Filho,1
+3,Camila Oliveira,2,Filha,2
+4,Luis Santos,7,Filho,3
+5,Juliana Costa,4,Filha,4
+6,Mariana Lima,1,Filha,5
+7,Roberto Mendes,6,Filho,6
+8,Sofia Rocha,3,Filha,7
+9,Rafael Martins,2,Filho,8
+10,Clara Lima,4,Filha,9
